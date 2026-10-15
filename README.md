@@ -1,9 +1,8 @@
-﻿#
-Auralis Releases
+﻿# Auralis Releases
 
 Official binary releases and updates for **Auralis Music Player**.
 
-## âœ¨ What is Auralis?
+## What is Auralis?
 Auralis is a sleek, modern Android music player featuring:
 - **Liquid Silver & Dark Sanctuary UI**
 - **Seamless Local Audio Management** (filtered and organized)
@@ -13,7 +12,7 @@ Auralis is a sleek, modern Android music player featuring:
 
 ---
 
-## ðŸ“¥ Download Latest APK
+## Download Latest APK
 To download the latest version, visit the [**Releases**](https://github.com/niyazz09/Auralis-Releases/releases) page and download \Auralis-Release.apk\.
 
 ### How to Install:
