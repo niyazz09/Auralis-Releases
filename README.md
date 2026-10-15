@@ -1,4 +1,5 @@
-﻿# ðŸŽµ Auralis Releases
+﻿#
+Auralis Releases
 
 Official binary releases and updates for **Auralis Music Player**.
 
